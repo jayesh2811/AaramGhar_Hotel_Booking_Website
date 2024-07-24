@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Sunrise Hotel",
+        "maxCount": 2,
+        "phoneNumber": 3344556677,
+        "rentPerDay": 100,
+        "imgUrls": [
+            "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+            "https://plus.unsplash.com/premium_photo-1676321688630-9558e7d2be10?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Sunrise Hotel offers a cozy Deluxe Room with all modern amenities. The room features a queen-sized bed with soft linens, high-speed internet access, a flat-screen TV, and a work desk. The bathroom includes a rain shower and complimentary toiletries.",
+        "amenities": [
+            "Queen-sized Bed",
+            "Rain Shower",
+            "Flat-screen TV",
+            "Work Desk",
+            "High-speed Internet"
+        ],
+        "location": "Chennai",
+        "address": "303 Anna Salai, Chennai, Tamil Nadu, 600002, India"
+    },
+    {
+        "name": "Himalayan Retreat",
+        "maxCount": 4,
+        "phoneNumber": 4455667788,
+        "rentPerDay": 180,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1559841644-08984562005a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+            "https://images.unsplash.com/photo-1559841771-599b6eeaca62?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Himalayan Retreat offers a spacious Family Suite Deluxe, perfect for a family vacation. The suite includes two bedrooms with comfortable beds, a living area, and a dining table. Enjoy the stunning mountain view, high-speed internet, and a minibar.",
+        "amenities": [
+            "Family Suite",
+            "Mountain View",
+            "Living Area",
+            "Dining Table",
+            "Minibar"
+        ],
+        "location": "Shimla",
+        "address": "123 Mall Road, Shimla, Himachal Pradesh, 171001, India"
+    },
+    {
+        "name": "Oceanic Bliss",
+        "maxCount": 3,
+        "phoneNumber": 5566778899,
+        "rentPerDay": 150,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1660731513683-4cb0c9ac09b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+            "https://images.unsplash.com/photo-1515510621228-30de609bbd60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Oceanic Bliss offers a relaxing Deluxe Room with ocean views. The room features a king-sized bed, high-speed internet, a flat-screen TV, and a minibar. The en-suite bathroom includes a rain shower and premium toiletries.",
+        "amenities": [
+            "Ocean View",
+            "King-sized Bed",
+            "Rain Shower",
+            "Minibar",
+            "Flat-screen TV"
+        ],
+        "location": "Pondicherry",
+        "address": "456 Beach Road, Pondicherry, 605001, India"
+    },
+    {
+        "name": "Royal Palace",
+        "maxCount": 5,
+        "phoneNumber": 6677889900,
+        "rentPerDay": 300,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1592230228921-df3a88a2244e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGhvdGVsJTIwcm9vbXxlbnwwfDB8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvdGVsJTIwcm9vbXxlbnwwfDB8MHx8fDA%3D"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Royal Palace offers an opulent Royal Suite Deluxe. The suite features two bedrooms with king-sized beds, a living room, a dining area, and a private balcony. Enjoy the high-speed internet, a minibar, and luxurious bathroom amenities.",
+        "amenities": [
+            "Royal Suite",
+            "Private Balcony",
+            "Dining Area",
+            "King-sized Beds",
+            "Luxurious Bathroom"
+        ],
+        "location": "Jaipur",
+        "address": "789 Palace Road, Jaipur, Rajasthan, 302001, India"
+    },
+    {
+        "name": "Mountain View Lodge",
+        "maxCount": 3,
+        "phoneNumber": 7788990011,
+        "rentPerDay": 90,
+        "imgUrls": [
+            "https://plus.unsplash.com/premium_photo-1689609949898-5f7a10649fef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhvdGVsJTIwcm9vbXxlbnwwfDB8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGhvdGVsJTIwcm9vbXxlbnwwfDB8MHx8fDA%3D"
+        ],
+        "currBookings": [],
+        "type": "Non-Deluxe",
+        "description": "Mountain View Lodge offers a comfortable Non-Deluxe Room with stunning mountain views. The room features a double bed, complimentary Wi-Fi, a work desk, and a flat-screen TV. The bathroom includes a standard shower and basic toiletries.",
+        "amenities": [
+            "Mountain View",
+            "Double Bed",
+            "Work Desk",
+            "Flat-screen TV",
+            "Complimentary Wi-Fi"
+        ],
+        "location": "Manali",
+        "address": "123 Solang Valley, Manali, Himachal Pradesh, 175103, India"
+    }
+
+]

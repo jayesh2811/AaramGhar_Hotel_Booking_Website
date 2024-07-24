@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Grand Hotel",
+        "maxCount": 3,
+        "phoneNumber": 1234567890,
+        "rentPerDay": 120,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tc3xlbnwwfHwwfHx8MA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1678297270385-ad5067126607?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tc3xlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "The Grand Hotel Deluxe Room offers a luxurious and comfortable stay with all modern amenities. Enjoy a spacious room with a king-sized bed, premium linens, and a beautiful view. The room includes a work desk, high-speed internet access, a flat-screen TV, and a minibar. The bathroom is equipped with a rain shower, plush towels, and high-quality toiletries to ensure a relaxing experience.",
+        "amenities": [
+            "Free Wi-Fi",
+            "King-sized Bed",
+            "Premium Linens",
+            "Rain Shower",
+            "Minibar"
+        ],
+        "location": "Mumbai",
+        "address": "123 Marine Drive, Mumbai, Maharashtra, 400020, India"
+    },
+    {
+        "name": "City View Inn",
+        "maxCount": 2,
+        "phoneNumber": 987654321,
+        "rentPerDay": 80,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1594560913095-8cf34bab82ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+            "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWwlMjByb29tc3xlbnwwfHwwfHx8MA%3D%3D"
+        ],
+        "currBookings": [],
+        "type": "Non-Deluxe",
+        "description": "City View Inn offers a comfortable and affordable stay with essential amenities. This Non-Deluxe Room features a cozy double bed, clean linens, and a nice view. Guests can enjoy complimentary Wi-Fi, a flat-screen TV, and a small work desk. The en-suite bathroom includes a standard shower, fresh towels, and basic toiletries to meet your needs during your stay.",
+        "amenities": [
+            "Free Wi-Fi",
+            "Double Bed",
+            "Work Desk",
+            "Complimentary Toiletries",
+            "City View"
+        ],
+        "location": "Delhi",
+        "address": "456 Connaught Place, Delhi, Delhi, 110001, India"
+    },
+    {
+        "name": "Seaside Resort",
+        "maxCount": 5,
+        "phoneNumber": 1122334455,
+        "rentPerDay": 200,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1619128395560-8a749ac9926d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1507038772120-7fff76f79d79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Seaside Resort offers a luxurious and spacious Family Suite Deluxe for families. This suite includes two bedrooms, each with comfortable beds and premium linens, a living area with a sofa and flat-screen TV, and a dining table. The suite offers high-speed internet, a minibar, and a stunning view. The bathrooms are equipped with rain showers, bathtubs, and high-quality toiletries for a pampering experience.",
+        "amenities": [
+            "Family Suite",
+            "Living Area",
+            "Flat-screen TV",
+            "Bathtub",
+            "High-speed Internet"
+        ],
+        "location": "Goa",
+        "address": "789 Beach Road, Goa, Goa, 403001, India"
+    },
+    {
+        "name": "Downtown Plaza Hotel",
+        "maxCount": 1,
+        "phoneNumber": 5566778899,
+        "rentPerDay": 50,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+            "https://plus.unsplash.com/premium_photo-1661956080119-71234af803b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+        ],
+        "currBookings": [],
+        "type": "Non-Deluxe",
+        "description": "Downtown Plaza Hotel offers a comfortable and affordable Non-Deluxe Single Room ideal for solo travelers. This room features a single bed with clean linens, a small work desk, and complimentary Wi-Fi. Guests can enjoy a flat-screen TV and a nice view from the window. The en-suite bathroom includes a standard shower, fresh towels, and basic toiletries to ensure a pleasant stay.",
+        "amenities": [
+            "Single Bed",
+            "Complimentary Wi-Fi",
+            "Flat-screen TV",
+            "Work Desk",
+            "Nice View"
+        ],
+        "location": "Bangalore",
+        "address": "101 Brigade Road, Bangalore, Karnataka, 560025, India"
+    },
+    {
+        "name": "Luxury Heights",
+        "maxCount": 4,
+        "phoneNumber": 2233445566,
+        "rentPerDay": 500,
+        "imgUrls": [
+            "https://images.unsplash.com/photo-1568495248636-6432b97bd949?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1565031491910-e57fac031c41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Luxury Heights offers an opulent Presidential Suite Deluxe, providing the ultimate in luxury. This suite includes a spacious bedroom with a king-sized bed and premium linens, a separate living area with a sofa and flat-screen TV, and a dining table. Guests can enjoy high-speed internet, a minibar, and breathtaking views. The luxurious bathroom features a rain shower, a bathtub, plush towels, and high-quality toiletries.",
+        "amenities": [
+            "Presidential Suite",
+            "Minibar",
+            "Living Area",
+            "King-sized Bed",
+            "Bathtub"
+        ],
+        "location": "Kolkata",
+        "address": "202 Park Street, Kolkata, West Bengal, 700016, India"
+    }
+]
