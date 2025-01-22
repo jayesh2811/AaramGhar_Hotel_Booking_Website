@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Royal Orchid Suites",
+        "maxCount": 4,
+        "phoneNumber": 3344556677,
+        "rentPerDay": 2500,
+        "imgUrls": [
+            "https://media.istockphoto.com/id/1129076301/photo/chinese-style-bedroom-interior.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZrIfWsdxPYF5S3WxLoU-jCG7T1_OHQeSRuTbPOHA-6U=",
+            "https://media.istockphoto.com/id/185083188/photo/luxury-shangri-la-hotel-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=pJs1KNBcI5hpaLMydDTYa-tvw1TbPIYO8UtEEraMN78="
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Royal Orchid Suites offers a spacious deluxe suite with modern interiors and high-end amenities. It features a king-sized bed, a living area, a work desk, and high-speed Wi-Fi. Perfect for both business and leisure travelers.",
+        "amenities": [
+            "Living Area",
+            "King-sized Bed",
+            "Free Wi-Fi",
+            "Work Desk",
+            "Rain Shower"
+        ],
+        "location": "Hyderabad",
+        "address": "567 Jubilee Hills, Hyderabad, Telangana, 500033, India"
+    },
+    {
+        "name": "Tranquil Stay",
+        "maxCount": 3,
+        "phoneNumber": 9988776655,
+        "rentPerDay": 1500,
+        "imgUrls": [
+            "https://media.istockphoto.com/id/1300757575/photo/side-view-of-hotel-amenities-on-the-bed.jpg?s=612x612&w=0&k=20&c=NQK76wtCnGhNcvveUfs8FE4JGl9-A1zuqCsSS8vUmgI=",
+            "https://media.istockphoto.com/id/1265661706/photo/hotel-rooms-corridor.jpg?s=612x612&w=0&k=20&c=OJXeyryuhtEpztiQQdvrA78eaU61l1yG5M6k9dIJQII="
+        ],
+        "currBookings": [],
+        "type": "Non-Deluxe",
+        "description": "Tranquil Stay is designed for comfort with minimalist interiors. Each room offers a cozy queen-sized bed, complimentary Wi-Fi, and a work desk. Ideal for short stays in the city.",
+        "amenities": [
+            "Queen-sized Bed",
+            "Work Desk",
+            "Free Wi-Fi",
+            "Complimentary Breakfast",
+            "Nice View"
+        ],
+        "location": "Chennai",
+        "address": "321 Anna Salai, Chennai, Tamil Nadu, 600002, India"
+    },
+    {
+        "name": "Himalayan Bliss",
+        "maxCount": 5,
+        "phoneNumber": 4433221100,
+        "rentPerDay": 3000,
+        "imgUrls": [
+            "https://media.istockphoto.com/id/1756553862/photo/modern-luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=jn6x4WHlDBEBh-dCWG0lE2gTQWuI2cTvLOmFU05jvvQ=",
+            "https://media.istockphoto.com/id/1482326431/photo/interior-bedroom-wall-mockup-3d-rendering-3d-illustration.jpg?s=612x612&w=0&k=20&c=-Smt8qpPo5OxmCKuPC36VSj80rJPeM1_dWZ6a-CHCog="
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Himalayan Bliss provides a serene and luxurious stay amidst the mountains. Each suite has a fireplace, private balcony with panoramic views, and premium furnishings.",
+        "amenities": [
+            "Private Balcony",
+            "Fireplace",
+            "Mountain View",
+            "Premium Linens",
+            "Rain Shower"
+        ],
+        "location": "Manali",
+        "address": "789 Mall Road, Manali, Himachal Pradesh, 175131, India"
+    },
+    {
+        "name": "Desert Retreat",
+        "maxCount": 4,
+        "phoneNumber": 5566889900,
+        "rentPerDay": 1800,
+        "imgUrls": [
+            "https://media.istockphoto.com/id/1042424568/photo/3d-rendering-luxury-modern-bedroom-suite-tv-with-wardrobe-and-walk-in-closet.jpg?s=612x612&w=0&k=20&c=AGoD3syG6mjPqWcqFVrcpzgFK_nt5SgwlVcsmyPoLbk=",
+            "https://media.istockphoto.com/id/1061316090/photo/double-bed-in-hotel.jpg?s=612x612&w=0&k=20&c=AAI1ZY7yKh1YQdQgKdhpQTV4Js43Dh8TvqEecNgY74A="
+        ],
+        "currBookings": [],
+        "type": "Non-Deluxe",
+        "description": "Desert Retreat offers a unique stay experience with rustic decor and desert-themed interiors. Guests can enjoy camel safaris and local cuisine.",
+        "amenities": [
+            "Desert Safari",
+            "Local Cuisine",
+            "Free Wi-Fi",
+            "Flat-screen TV",
+            "Queen-sized Bed"
+        ],
+        "location": "Jaisalmer",
+        "address": "12 Sand Dunes Road, Jaisalmer, Rajasthan, 345001, India"
+    },
+    {
+        "name": "Green Haven Resort",
+        "maxCount": 6,
+        "phoneNumber": 6677885544,
+        "rentPerDay": 4000,
+        "imgUrls": [
+            "https://media.istockphoto.com/id/2157390015/photo/the-traditional-bedroom-features-a-classic-king-size-bed-against-white-and-gray-wall-paint.jpg?s=612x612&w=0&k=20&c=yEtbCvbpGL72HcDpnF6nkjvqcenlth6b4TVMaWvwpZA=",
+            "https://media.istockphoto.com/id/185113199/photo/shangri-la-hotel-room-in-new-delhi.jpg?s=612x612&w=0&k=20&c=DtV_QwIh2lolcCYN1cIGqpT1yH3Cw1HvwHTjSEi4Vhs="
+        ],
+        "currBookings": [],
+        "type": "Deluxe",
+        "description": "Green Haven Resort offers eco-friendly accommodation surrounded by lush greenery. Perfect for nature lovers and those seeking tranquility.",
+        "amenities": [
+            "Nature Trails",
+            "King-sized Bed",
+            "Rain Shower",
+            "Minibar",
+            "Balcony View"
+        ],
+        "location": "Coorg",
+        "address": "15 Green Valley, Coorg, Karnataka, 571201, India"
+    }
+]

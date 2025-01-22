@@ -1,0 +1,179 @@
+[
+    {
+      "name": "Mountain Retreat",
+      "maxCount": 2,
+      "phoneNumber": 6677889900,
+      "rentPerDay": 90,
+      "imgUrls": [
+        "https://media.istockphoto.com/id/1286725531/photo/the-circle-wall-design-on-dark-bedroom-japanese-deisgn-with-tatami-mat-floor-3d-rendering.jpg?s=612x612&w=0&k=20&c=7JmQ47tmfigK0TsW1or8FqD4l-7YJ0if5A3ygGnqAJg=",
+        "https://media.istockphoto.com/id/1447180306/photo/woman-enjoys-magnificent-view-from-hotel-window.jpg?s=612x612&w=0&k=20&c=tYi7l7OmNUrceo6neAHBpqrk9uVO4UTRjodqpOHeIyA="
+      ],
+      "currBookings": [],
+      "type": "Non-Deluxe",
+      "description": "A cozy mountain retreat offering a double bed, complimentary Wi-Fi, and serene views of the surrounding hills. The room features clean linens, a work desk, and a standard en-suite bathroom with fresh towels and toiletries.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Double Bed",
+        "Work Desk",
+        "Serene Views",
+        "Basic Toiletries"
+      ],
+      "location": "Manali",
+      "address": "456 Mall Road, Manali, Himachal Pradesh, 175131, India"
+    },
+    {
+      "name": "Paradise Villa",
+      "maxCount": 4,
+      "phoneNumber": 9988776655,
+      "rentPerDay": 150,
+      "imgUrls": [
+        "https://media.istockphoto.com/id/583698440/photo/classic-bedroom.jpg?s=612x612&w=0&k=20&c=rccB7Vdc1d3nOqEVQ89mJ6cRSS_wgGLBJDl409M9fFA=",
+        "https://media.istockphoto.com/id/654289190/photo/four-poster-bed-with-mosquito-net-in-bright-hotel-room.jpg?s=612x612&w=0&k=20&c=2MD490P17mzRq3SmovQDXNHMVjM7gtTSEpnRfnwavck="
+      ],
+      "currBookings": [],
+      "type": "Deluxe",
+      "description": "Paradise Villa offers a luxurious stay with a family-friendly suite featuring a king-sized bed, a living room, and premium furnishings. Enjoy breathtaking views, a flat-screen TV, high-speed internet, and a minibar.",
+      "amenities": [
+        "King-sized Bed",
+        "Minibar",
+        "Living Room",
+        "Breathtaking Views",
+        "Premium Furnishings"
+      ],
+      "location": "Shimla",
+      "address": "789 Ridge Road, Shimla, Himachal Pradesh, 171001, India"
+    },
+    {
+      "name": "Royal Comfort",
+      "maxCount": 3,
+      "phoneNumber": 8765432109,
+      "rentPerDay": 110,
+      "imgUrls": [
+        "https://media.istockphoto.com/id/2157081712/photo/luxury-studio-apartment-with-a-free-layout-in-a-loft-style-in-white-scheme-bedroom-interior.jpg?s=612x612&w=0&k=20&c=0lh9HZ32GjgTdfzLLow4NUhrF8W39cmIokgt3OxvlQc=",
+        "https://media.istockphoto.com/id/1789483341/photo/3d-render-of-luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=JrUTAo3PRWtipQSAX_nnaxpS3UOenDrBA1NITnrs8bg="
+      ],
+      "currBookings": [],
+      "type": "Deluxe",
+      "description": "Royal Comfort offers a spacious and modern Deluxe Room featuring a king-sized bed, plush linens, and all essential amenities. The room includes a flat-screen TV, high-speed Wi-Fi, and a luxurious bathroom.",
+      "amenities": [
+        "King-sized Bed",
+        "Plush Linens",
+        "Flat-screen TV",
+        "High-speed Wi-Fi",
+        "Luxurious Bathroom"
+      ],
+      "location": "Jaipur",
+      "address": "101 Amber Road, Jaipur, Rajasthan, 302001, India"
+    },
+    {
+      "name": "Palm Haven Resort",
+      "maxCount": 5,
+      "phoneNumber": 9988225566,
+      "rentPerDay": 180,
+      "imgUrls": [
+        "https://images.unsplash.com/photo-1725962479542-1be0a6b0d444?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+      ],
+      "currBookings": [],
+      "type": "Deluxe",
+      "description": "Palm Haven Resort offers an exclusive family suite surrounded by lush greenery. The suite includes a master bedroom, a living area, a private balcony, and modern amenities for a luxurious experience.",
+      "amenities": [
+        "Master Bedroom",
+        "Private Balcony",
+        "Living Area",
+        "Modern Amenities",
+        "Lush Greenery"
+      ],
+      "location": "Kerala",
+      "address": "123 Beachside, Alleppey, Kerala, 688012, India"
+    },
+    {
+      "name": "The Urban Nest",
+      "maxCount": 2,
+      "phoneNumber": 8899776655,
+      "rentPerDay": 75,
+      "imgUrls": [
+        "https://plus.unsplash.com/premium_photo-1670360414903-19e5832f8bc4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1549638441-b787d2e11f14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+      ],
+      "currBookings": [],
+      "type": "Non-Deluxe",
+      "description": "The Urban Nest provides a cozy Non-Deluxe Room for budget travelers. Enjoy essential amenities like free Wi-Fi, a comfortable double bed, a small work desk, and a clean en-suite bathroom.",
+      "amenities": [
+        "Free Wi-Fi",
+        "Double Bed",
+        "Work Desk",
+        "Cozy Interiors",
+        "Clean Bathroom"
+      ],
+      "location": "Pune",
+      "address": "456 Koregaon Park, Pune, Maharashtra, 411001, India"
+    },
+    {
+      "name": "Hilltop Lodge",
+      "maxCount": 3,
+      "phoneNumber": 7766554433,
+      "rentPerDay": 100,
+      "imgUrls": [
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+      ],
+      "currBookings": [],
+      "type": "Non-Deluxe",
+      "description": "Hilltop Lodge is a perfect getaway offering scenic views and cozy rooms. The room includes a queen-sized bed, free Wi-Fi, and a flat-screen TV. Ideal for a serene and peaceful stay.",
+      "amenities": [
+        "Scenic Views",
+        "Queen-sized Bed",
+        "Flat-screen TV",
+        "Free Wi-Fi",
+        "Peaceful Ambience"
+      ],
+      "location": "Ooty",
+      "address": "789 Green Valley, Ooty, Tamil Nadu, 643001, India"
+    },
+    {
+      "name": "The Sapphire Residency",
+      "maxCount": 2,
+      "phoneNumber": 8886662220,
+      "rentPerDay": 60,
+      "imgUrls": [
+        "https://media.istockphoto.com/id/2160552314/photo/simple-wooden-furnishings-interior-touches-for-your-minimizing-bed-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=k3fScSnTrIsJloEFx8D393j9WxjWhrH6fRmaflXSvTw=",
+        "https://media.istockphoto.com/id/2157251714/photo/a-spacious-modern-bedroom-interior-captured-in-a-realistic-photographic-style.webp?a=1&b=1&s=612x612&w=0&k=20&c=bPUv4HJRMzrOdU30XAW9RpvEGwlLLNZeoyZ-CJUZqRM="
+      ],
+      "currBookings": [],
+      "type": "Non-Deluxe",
+      "description": "The Sapphire Residency provides affordable comfort for travelers. The rooms feature a single bed, free Wi-Fi, and essential amenities, making it ideal for short stays.",
+      "amenities": [
+        "Single Bed",
+        "Free Wi-Fi",
+        "Basic Amenities",
+        "Comfortable Stay",
+        "Affordable Rates"
+      ],
+      "location": "Chennai",
+      "address": "123 Anna Salai, Chennai, Tamil Nadu, 600002, India"
+    },
+    {
+      "name": "Serene Shores",
+      "maxCount": 4,
+      "phoneNumber": 6677889901,
+      "rentPerDay": 220,
+      "imgUrls": [
+        "https://images.unsplash.com/photo-1592229506151-845940174bb0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1557122764-dc9f8447fafb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fEhvdGVsJTIwcm9vbXN8ZW58MHx8MHx8fDA%3D"
+      ],
+      "currBookings": [],
+      "type": "Deluxe",
+      "description": "Serene Shores offers luxurious beachside rooms with stunning ocean views. The suite features a king-sized bed, a private terrace, and top-notch amenities for an unforgettable experience.",
+      "amenities": [
+        "Ocean Views",
+        "Private Terrace",
+        "King-sized Bed",
+        "Premium Amenities",
+        "Beachside Location"
+      ],
+      "location": "Goa",
+      "address": "456 Ocean Drive, Goa, Goa, 403002, India"
+    }
+  ]
+  
